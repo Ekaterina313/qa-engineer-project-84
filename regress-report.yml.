@@ -5,7 +5,15 @@ test-cases:
     status: fail
 
   - summary: |
-      
+     Товар не исчезает из корзины после оформления заказа 
+    status: fail
+
+ - summary: |
+     Товар не исчезает из корзины после оформления заказа 
+    status: fail
+
+ - summary: |
+     Товар не исчезает из корзины после оформления заказа 
     status: fail
 
 bugreports:
